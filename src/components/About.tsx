@@ -23,7 +23,7 @@ const About = () => {
               <p className="text-lg text-tech-gray-light leading-relaxed">
                 With over 15 years of experience in the IT industry, Secor Enterprises Pty Ltd 
                 has been at the forefront of technological innovation, helping businesses across 
-                Australia achieve their digital transformation goals.
+                South Africa achieve their digital transformation goals.
               </p>
               <p className="text-lg text-tech-gray-light leading-relaxed">
                 Our team of certified professionals brings together deep technical expertise 
