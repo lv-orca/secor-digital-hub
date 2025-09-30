@@ -51,9 +51,9 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-tech-gray">Address</h4>
-                    <p className="text-tech-gray-light">Level 15, 123 Collins Street</p>
-                    <p className="text-tech-gray-light">Melbourne, VIC 3000</p>
-                    <p className="text-tech-gray-light">Australia</p>
+                    <p className="text-tech-gray-light">78 6th Ave Postdene</p>
+                    <p className="text-tech-gray-light">Postmasburg, 8420</p>
+                    <p className="text-tech-gray-light">South Africa</p>
                   </div>
                 </div>
                 
