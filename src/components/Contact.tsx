@@ -29,8 +29,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-tech-gray">Phone</h4>
-                    <p className="text-tech-gray-light">+61 2 9876 5432</p>
-                    <p className="text-tech-gray-light">+61 1800 SECOR (73267)</p>
+                    <p className="text-tech-gray-light">+27 78 936 1866</p>
+                    <p className="text-tech-gray-light">+27 78 936 1866</p>
                   </div>
                 </div>
                 
@@ -40,8 +40,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-tech-gray">Email</h4>
-                    <p className="text-tech-gray-light">info@secorenterprises.com.au</p>
-                    <p className="text-tech-gray-light">support@secorenterprises.com.au</p>
+                    <p className="text-tech-gray-light">info@secor.co.za</p>
+                    <p className="text-tech-gray-light">support@secor.co.za</p>
                   </div>
                 </div>
                 
