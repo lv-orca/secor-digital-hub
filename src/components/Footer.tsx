@@ -40,9 +40,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Contact Info</h4>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
-              <li>+61 2 9876 5432</li>
-              <li>info@secorenterprises.com.au</li>
-              <li>Level 15, 123 Collins Street<br />Melbourne, VIC 3000</li>
+              <li>+27 78 936 1866</li>
+              <li>info@secor.co.za</li>
+              <li>78 6th Ave Postdene<br />Postmasburg, 8420 ZAF</li>
             </ul>
           </div>
         </div>
